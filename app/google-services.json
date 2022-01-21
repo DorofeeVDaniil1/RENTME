@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059977507955",
+    "project_id": "rentime-d922f",
+    "storage_bucket": "rentime-d922f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059977507955:android:9d245c023271e7296ae606",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059977507955-rl05afj92oc3evuafktnuhgnhe8au053.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregister",
+            "certificate_hash": "ed07b1094ad4eac59033554a5d6058b5a4f37cdf"
+          }
+        },
+        {
+          "client_id": "1059977507955-brof4mtmtvlrceeikqphssv3uh9229ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HUBDB-upxt3Wnhmd6d5xreFNctLHdg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059977507955-brof4mtmtvlrceeikqphssv3uh9229ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
